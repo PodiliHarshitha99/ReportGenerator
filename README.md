@@ -15,6 +15,12 @@ Java-based automation tool that checks status of list of URLs and generates a HT
 - Java IO (for writing HTML Reports. File, FileWriter)
 - JSON processing (org.JSON)
 
+To compile:
+javac -cp .;<path> com\reports\automation\HourlyReportGenerator.java
+
+To run:
+java -cp .;<path> com.reports.automation.HourlyReportGenerator
+
 **Sample Output - The generated report includes:**
 - URL name
 - Status (Working / Not Working)
