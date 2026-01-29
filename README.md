@@ -12,7 +12,7 @@ Java-based automation tool that checks status of list of URLs and generates a HT
 - Java 11+
 - Java HTTP Client (java.net.http)
 - Java Collections (Maps to store URL names and Links)
-- Java IO (for writing HTML Reports)
+- Java IO (for writing HTML Reports. File, FileWriters)
 - JSON processing (org.JSON)
 
 **Sample Output - The generated report includes:**
