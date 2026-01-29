@@ -1,4 +1,4 @@
-# Report Generator
+# Java-Based URL Monitoring and HTML Report Generator
 **Overview:**
 Java-based automation tool that checks status of list of URLs and generates a HTML report
 
