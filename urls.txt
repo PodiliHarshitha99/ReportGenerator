@@ -1,0 +1,7 @@
+Google,https://www.google.com
+Netflix,https://www.netflix.com
+LinkedIn,https://www.linkedin.com
+Goagle,https://www.goagle.com
+Example,http://www.example.com/bad-url
+Amazon,https://www.amazon.com/
+GitHub,https://github.com
