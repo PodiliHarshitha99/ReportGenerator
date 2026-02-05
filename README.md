@@ -45,7 +45,7 @@ urls.txt - This file must follow a specific comma seperated value format.
 
 **Steps to Run**:
 - **Create the Java File:** Copy the code from FileBasedReportGenerator.java and paste it into the Main.java tab.
-- **Create the Data File:** Click the "New File" icon (or '+' button), name it urls.txt, and paste your list of sites (Format: Name,URL).
-- **Run:** Click the green Run button. The program will read from the virtual urls.txt and display the report in the bottom console.
+- **Create the Data File:** Click the "New File" icon, name it urls.txt, and paste your list of sites (Format: Name,URL).
+- **Run:** Click the Run button. The program will read from the virtual urls.txt and display the report in the bottom console.
 
 
